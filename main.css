@@ -14,7 +14,7 @@ body{
 }
 
 .button {
-    position: relative;
+    position: relative;/*A posição fica relativa ao conteiner pai*/
     top: 10px;
     height: 30px;
     width: 255px;
@@ -50,12 +50,12 @@ body{
     top: 20px;
 }
 
-.loginLinks a {
+.loginLinks a {/*cor das letras dos links*/
     color: #ffffff;
 }
 
 .square {
-    position: absolute;
+    position: absolute;/*A posição fica relativa a página em si*/
     width: 310px;
     height: 360px;
     border: 3px solid;
