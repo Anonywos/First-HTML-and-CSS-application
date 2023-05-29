@@ -44,3 +44,21 @@ body{
     bottom: 10px;
     font-size: 40px;
 }
+
+.loginLinks {
+    position: relative;
+    top: 20px;
+}
+
+.loginLinks a {
+    color: #ffffff;
+}
+
+.square {
+    position: absolute;
+    width: 310px;
+    height: 360px;
+    border: 3px solid;
+    border-color: #ffffff;
+    background-color: transparent;
+}
