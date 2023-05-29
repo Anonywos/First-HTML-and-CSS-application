@@ -1,7 +1,7 @@
 body{
     background-color: #483D8B;
     color: #ffffff;
-    font: bold;
+    font: arial;
     font-size: 15px;
 }
 
@@ -10,7 +10,7 @@ body{
     flex-direction: column; /* Define a direção do fluxo dos elementos dentro do contêiner como uma coluna*/
     justify-content: center; /*Centraliza os elementos horizontalmente*/
     align-items: center; /*Centraliza os elementos verticalmente*/
-    height: 80vh; /* Ajuste conforme necessário */
+    height: 100vh; /* Ajuste conforme necessário */
 }
 
 .button {
